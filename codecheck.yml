@@ -9,7 +9,8 @@ paper:
       ORCID: 0000-0001-7972-5634
     - name: Manuel Spitschan
       ORCID: 0000-0002-8572-9268
-  reference: https://doi.org/10.17605/OSF.IO/ZRKSF
+  reference: https://doi.org/10.1098/rsos.191613
+  # checked preprint: https://doi.org/10.17605/OSF.IO/ZRKSF
 
 manifest:
   - file: 06_output/dem_tab.pdf
